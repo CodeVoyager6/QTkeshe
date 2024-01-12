@@ -1,0 +1,1 @@
+运用本软件需要在本地电脑确保已装有mysql数据库，使用create database jicizhichuang语句进行数据库创建。然后将单词和单词副本数据导进jicizhichuang数据库，至此数据库外部配置完成。
